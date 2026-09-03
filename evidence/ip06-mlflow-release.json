@@ -1,0 +1,5 @@
+{
+  "reachable": true,
+  "has_champion": false,
+  "detail": "no 'champion' release for lab28-rag-release: INVALID_PARAMETER_VALUE: Registered model alias champion not found."
+}
